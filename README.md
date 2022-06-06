@@ -5,3 +5,5 @@
 A samll game to play rock, paper, scissor with computers as below: 
 
 ![2](https://user-images.githubusercontent.com/58776067/172237525-083451bc-d7fa-436d-bd70-6cc6d26e601f.png)
+
+🔚
